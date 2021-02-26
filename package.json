@@ -1,0 +1,21 @@
+{
+    "name": "mr-darkets-theme",
+    "displayName": "mr-black-theme",
+    "description": "Here is darkest theme for developers!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mahmoud Ramadan Darkest Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mr-darkets-theme.json"
+            }
+        ]
+    }
+}
