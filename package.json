@@ -1,5 +1,4 @@
 {
-    "publisher": "mahmoudmohamedramadan",
     "name": "mr-darkets-theme",
     "displayName": "mr-black-theme",
     "description": "Here is darkest theme for developers!",
@@ -18,5 +17,32 @@
                 "path": "./themes/mr-darkets-theme.json"
             }
         ]
-    }
+    },
+    "publisher": "mahmoudmohamedramadan",
+    "author": {
+        "name": "Mahmoud Mohamed Ramadan"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "GitHub",
+        "url": "https://github.com/mahmoudmohamedramadan/mr-darkest-theme"
+    },
+    "galleryBanner": {
+        "color": "#151515",
+        "theme": "dark"
+    },
+    "keywords": [
+        "theme",
+        "vs theme",
+        "code theme",
+        "vscode theme",
+        "dark theme",
+        "vscode, dark theme",
+        "mr",
+        "mr dark theme",
+        "mr-darkest-theme",
+        "mrdarkest",
+        "mr-daerkest",
+        "mr darkest theme"
+    ]
 }
