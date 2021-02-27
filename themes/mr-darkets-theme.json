@@ -10,7 +10,7 @@
         "textLink.activeForeground": "#FFA500",
         "textLink.foreground": "#FF8C00",
         "button.background": "#2E303E",
-        "dropdown.background": "#232530",
+        "dropdown.background": "#151515",
         "dropdown.listBackground": "#2E303E",
         "input.background": "#2E303E",
         "inputOption.activeBorder": "#E9436D80",
@@ -178,7 +178,7 @@
             "name": "Tags",
             "scope": "entity.name.tag",
             "settings": {
-                "foreground": "#E95678E6",
+                "foreground": "#85603f",
                 "fontStyle": "normal"
             }
         },
@@ -196,7 +196,7 @@
             "name": "Tag attributes",
             "scope": "entity.other.attribute-name",
             "settings": {
-                "foreground": "#F09483E6",
+                "foreground": "#e3d18a",
                 "fontStyle": "normal"
             }
         },
@@ -246,7 +246,7 @@
             "name": "Operators",
             "scope": "keyword.operator",
             "settings": {
-                "foreground": "#BBBBBB"
+                "foreground": "#e3d18a"
             }
         },
         {
@@ -258,7 +258,7 @@
                 "keyword.operator.delete"
             ],
             "settings": {
-                "foreground": "#B877DBE6"
+                "foreground": "#e3d18a"
             }
         },
         {
@@ -284,22 +284,6 @@
             ],
             "settings": {
                 "foreground": "#E95678E6"
-            }
-        },
-        {
-            "name": "Markup bold",
-            "scope": "markup.bold",
-            "settings": {
-                "foreground": "#B877DBE6",
-                "fontStyle": "bold"
-            }
-        },
-        {
-            "name": "Markup italics",
-            "scope": "markup.italic",
-            "settings": {
-                "foreground": "#25B0BCE6",
-                "fontStyle": "italic"
             }
         },
         {
@@ -417,7 +401,7 @@
             "name": "Tag brackets",
             "scope": "punctuation.definition.tag",
             "settings": {
-                "foreground": "#E95678B3",
+                "foreground": "#85603f",
                 "fontStyle": "normal"
             }
         },
@@ -439,7 +423,7 @@
             "name": "Embedded section punctuation",
             "scope": "punctuation.section.embedded",
             "settings": {
-                "foreground": "#B877DBE6"
+                "foreground": "#85603f"
             }
         },
         {
