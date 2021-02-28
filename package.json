@@ -1,6 +1,6 @@
 {
-    "name": "mr-darkets-theme",
-    "displayName": "mr-darkets-theme",
+    "name": "mr-darkest-theme",
+    "displayName": "mr-darkest-theme",
     "description": "Here is darkest theme for developers 🤙🎉",
     "version": "1.0.0",
     "engines": {
@@ -14,7 +14,7 @@
             {
                 "label": "M.R Darkest Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/mr-darkets-theme.json"
+                "path": "./themes/mr-darkest-theme.json"
             }
         ]
     },
