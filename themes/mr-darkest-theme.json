@@ -363,7 +363,7 @@
                 "meta.object-literal.key"
             ],
             "settings": {
-                "foreground": "#E95678E6"
+                "foreground": "#bd2000"
             }
         },
         {
@@ -416,7 +416,7 @@
             "name": "Template expressions",
             "scope": "punctuation.definition.template-expression",
             "settings": {
-                "foreground": "#B877DBE6"
+                "foreground": "#bd2000"
             }
         },
         {
