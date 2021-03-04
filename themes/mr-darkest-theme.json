@@ -24,11 +24,11 @@
         "badge.background": "#2E303E",
         "progressBar.background": "#f0a500",
         "list.activeSelectionBackground": "#2E303E80",
-        "list.activeSelectionForeground": "#D5D8DA",
+        "list.activeSelectionForeground": "#f0a500",
         "list.dropBackground": "#6C6F9380",
         "list.focusBackground": "#2E303E80",
         "list.focusForeground": "#D5D8DA",
-        "list.highlightForeground": "#E95378",
+        "list.highlightForeground": "#f0a500",
         "list.hoverBackground": "#2E303E80",
         "list.hoverForeground": "#D5D8DA",
         "list.inactiveSelectionBackground": "#2E303E4D",
@@ -111,7 +111,7 @@
         "titleBar.inactiveBackground": "#101010",
         "extensionButton.prominentBackground": "#f0a500",
         "extensionButton.prominentHoverBackground": "#E9436D",
-        "pickerGroup.foreground": "#E95378E6",
+        "pickerGroup.foreground": "#f0a500",
         "terminal.foreground": "#D5D8DA",
         "terminal.ansiBlue": "#26BBD9",
         "terminal.ansiBrightBlue": "#3FC4DE",
@@ -363,7 +363,7 @@
                 "meta.object-literal.key"
             ],
             "settings": {
-                "foreground": "#bd2000"
+                "foreground": "#d8c292"
             }
         },
         {
