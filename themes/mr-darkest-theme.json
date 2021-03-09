@@ -24,7 +24,7 @@
         "badge.background": "#2E303E",
         "progressBar.background": "#f0a500",
         "list.activeSelectionBackground": "#2E303E80",
-        "list.activeSelectionForeground": "#f0a500",
+        "list.activeSelectionForeground": "#d8c292",
         "list.dropBackground": "#6C6F9380",
         "list.focusBackground": "#2E303E80",
         "list.focusForeground": "#D5D8DA",
@@ -110,7 +110,7 @@
         "titleBar.activeBackground": "#101010",
         "titleBar.inactiveBackground": "#101010",
         "extensionButton.prominentBackground": "#f0a500",
-        "extensionButton.prominentHoverBackground": "#E9436D",
+        "extensionButton.prominentHoverBackground": "#e45826",
         "pickerGroup.foreground": "#f0a500",
         "terminal.foreground": "#D5D8DA",
         "terminal.ansiBlue": "#26BBD9",
@@ -416,7 +416,7 @@
             "name": "Template expressions",
             "scope": "punctuation.definition.template-expression",
             "settings": {
-                "foreground": "#bd2000"
+                "foreground": "#f5d782"
             }
         },
         {
