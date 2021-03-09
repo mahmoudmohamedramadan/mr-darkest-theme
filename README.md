@@ -24,3 +24,14 @@
 ![Screen Shot-III](./images/code_v1.0.2_1.png)
 
 ![Screen Shot-IV](./images/code_v1.0.2_2.png)
+
+**V1.0.3 🎨**
+<ul>
+ <li>Change Template Expressions Color</li>
+ <li>Change activeSelectionForeground Color</li>
+ <li>Change prominentHoverBackground Color</li>
+</ul>
+
+![Screen Shot-V](./images/code_v1.0.3_1.png)
+![Screen Shot-VI](./images/code_v1.0.3_2.png)
+![Screen Shot-VII](./images/code_v1.0.3_3.png)
