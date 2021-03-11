@@ -37,3 +37,10 @@
 ![Screen Shot-VI](./images/code_v1.0.3_2.png)
 
 ![Screen Shot-VII](./images/code_v1.0.3_3.png)
+
+**V1.0.4 🎨**
+<ul>
+ <li>Change activeSelectionForeground Color</li>
+</ul>
+
+![Screen Shot-IX](./images/code_v1.0.4.png)
