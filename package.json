@@ -2,7 +2,7 @@
     "name": "mr-darkest-theme",
     "displayName": "mr-darkest-theme",
     "description": "Here is darkest theme for developers 🤙🎉",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "engines": {
         "vscode": "^1.53.0"
     },
@@ -27,6 +27,7 @@
         "type": "GitHub",
         "url": "https://github.com/mahmoudmohamedramadan/mr-darkest-theme"
     },
+    "icon": "images/mr-dark.png",
     "galleryBanner": {
         "color": "#101010",
         "theme": "dark"
