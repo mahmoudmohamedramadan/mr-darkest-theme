@@ -44,3 +44,11 @@
 </ul>
 
 ![Screen Shot-IX](./images/code_v1.0.4.png)
+
+**V1.0.5 🎨**
+<ul>
+ <li>Change editorLineNumberForeground Color</li>
+ <li>Change editorLineNumberActiveForeground Color</li>
+</ul>
+
+![Screen Shot-IX](./images/code_v1.0.5.png)
