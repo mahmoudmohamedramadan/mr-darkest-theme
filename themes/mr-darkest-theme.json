@@ -54,7 +54,7 @@
         "tab.inactiveBackground": "#101010",
         "editor.background": "#101010",
         "editorLineNumber.foreground": "#D5D8DA80",
-        "editorLineNumber.activeForeground": "#D5D8DA80",
+        "editorLineNumber.activeForeground": "#CCCCCC",
         "editorCursor.background": "#101010",
         "editorCursor.foreground": "#f0a500",
         "editor.selectionBackground": "#2E303EB3",
