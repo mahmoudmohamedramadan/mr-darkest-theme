@@ -53,7 +53,7 @@
         "tab.activeBorder": "#f0a500",
         "tab.inactiveBackground": "#101010",
         "editor.background": "#101010",
-        "editorLineNumber.foreground": "#D5D8DA1A",
+        "editorLineNumber.foreground": "#D5D8DA80",
         "editorLineNumber.activeForeground": "#D5D8DA80",
         "editorCursor.background": "#101010",
         "editorCursor.foreground": "#f0a500",
