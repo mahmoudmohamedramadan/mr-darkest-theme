@@ -1,8 +1,8 @@
 {
     "name": "mr-darkest-theme",
-    "displayName": "mr-darkest-theme",
-    "description": "Here is darkest theme for developers 🤙🎉",
-    "version": "1.0.5",
+    "displayName": "M.R Darkest Theme",
+    "description": "M.R Darkest Theme for VS Code",
+    "version": "1.0.6",
     "engines": {
         "vscode": "^1.53.0"
     },
@@ -18,7 +18,7 @@
             }
         ]
     },
-    "publisher": "mahmoudmohamedramadan",
+    "publisher": "MahmoudMohamedRamadan",
     "author": {
         "name": "Mahmoud Mohamed Ramadan"
     },
@@ -34,16 +34,10 @@
     },
     "keywords": [
         "theme",
-        "vs theme",
-        "code theme",
-        "vscode theme",
-        "dark theme",
-        "vscode dark theme",
-        "mr",
-        "mr dark theme",
-        "mr-darkest-theme",
-        "mrdarkest",
-        "mr-darkest",
-        "mr darkest theme"
+        "color-theme",
+        "dark-theme",
+        "darkest-theme",
+        "vscode-theme",
+        "mr-darkest-theme"
     ]
 }
