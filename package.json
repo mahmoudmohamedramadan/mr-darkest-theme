@@ -2,7 +2,7 @@
     "name": "mr-darkest-theme",
     "displayName": "M.R Darkest Theme",
     "description": "M.R Darkest Theme for VS Code",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "engines": {
         "vscode": "^1.53.0"
     },
