@@ -12,9 +12,17 @@
 2. Search for M.R Darkest Theme
 3. Click Install
 4. Open the Command Palette with Ctrl+Shift+P or ⇧⌘P
-5. Select Preferences: Color Theme and choose a M.R Darkest Theme.
+5. Select Preferences: Color Theme and choose a M.R Darkest Theme
 6. Enjoy! 🎉
 
 ## Override this theme
 
 To override this (or any other) theme in your personal config file, please follow the guide in the [color theme](https://code.visualstudio.com/api/extension-guides/color-theme) documentation. This is handy for small tweaks to the theme without having to fork and maintain your own theme.
+
+## Support me
+
+- [PayPal](https://www.paypal.com/paypalme/mmramadan496)
+
+## License
+
+The MIT License (MIT).
