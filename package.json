@@ -2,7 +2,7 @@
     "name": "mr-darkest-theme",
     "displayName": "M.R Darkest Theme",
     "description": "M.R Darkest Theme for VS Code",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "engines": {
         "vscode": "^1.53.0"
     },
@@ -20,7 +20,7 @@
     },
     "publisher": "MahmoudMohamedRamadan",
     "author": {
-        "name": "Mahmoud Mohamed Ramadan"
+        "name": "Mahmoud Ramadan"
     },
     "license": "MIT",
     "repository": {
