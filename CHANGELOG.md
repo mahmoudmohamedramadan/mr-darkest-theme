@@ -49,3 +49,7 @@
 ## [v1.0.1](https://github.com/mahmoudmohamedramadan/mr-darkest-theme/releases/tag/v1.0.1)
 
 - [1.x] Change the `Object/JSON` property color name.
+
+## [v1.0.0](https://github.com/mahmoudmohamedramadan/mr-darkest-theme/releases/tag/v1.0.0)
+
+- [1.x] Release the package. 🎉
