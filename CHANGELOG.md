@@ -2,12 +2,14 @@
 
 ## [v1.0.9](https://github.com/mahmoudmohamedramadan/mr-darkest-theme/releases/tag/v1.0.9)
 
-- [1.x] optimizing.
+- [1.x] Formatting the `CHANGELOG` file.
+- [1.x] Formatting the `package.json` file.
 
 ## [v1.0.8](https://github.com/mahmoudmohamedramadan/mr-darkest-theme/releases/tag/v1.0.8)
 
 - [1.x] Add the `Support me` section.
 - [1.x] Add the `LICENSE` section.
+- [1x.] Remove the additional dot at the fifth installation step.
 
 ## [v1.0.7](https://github.com/mahmoudmohamedramadan/mr-darkest-theme/releases/tag/v1.0.7)
 
@@ -24,8 +26,8 @@
 
 ## [v1.0.5](https://github.com/mahmoudmohamedramadan/mr-darkest-theme/releases/tag/v1.0.5)
 
-- [1.x] Change the editor line number foreground color.
-- [1.x] Change the editor line number active foreground color.
+- [1.x] Change the foreground color of the editor line number.
+- [1.x] Change the active foreground color of the editor line number.
 
 ## [v1.0.4](https://github.com/mahmoudmohamedramadan/mr-darkest-theme/releases/tag/v1.0.4)
 
@@ -33,7 +35,7 @@
 
 ## [v1.0.3](https://github.com/mahmoudmohamedramadan/mr-darkest-theme/releases/tag/v1.0.3)
 
-- [1.x] Change the template expressions color.
+- [1.x] Change the template expression color.
 - [1.x] Change the active selection foreground color.
 - [1.x] Change the prominent hover background color.
 
