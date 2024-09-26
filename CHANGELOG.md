@@ -1,5 +1,9 @@
 # Release Notes for 1.x
 
+## [v1.1.0](https://github.com/mahmoudmohamedramadan/mr-darkest-theme/releases/tag/v1.1.0)
+
+- [1.x] Update the `package.json` file.
+
 ## [v1.0.9](https://github.com/mahmoudmohamedramadan/mr-darkest-theme/releases/tag/v1.0.9)
 
 - [1.x] Formatting the `CHANGELOG` file.
