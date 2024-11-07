@@ -4,7 +4,7 @@
 
 ## [v1.1.2](https://github.com/mahmoudmohamedramadan/mr-darkest-theme/releases/tag/v1.1.2)
 
-- [1.x] Changes the Theme Logo.
+- [1.x] Updates the Theme Logo.
 - [1.x] Updates the `CHANGELOG` file.
 
 ## [v1.1.1](https://github.com/mahmoudmohamedramadan/mr-darkest-theme/releases/tag/v1.1.1)
