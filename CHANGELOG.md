@@ -1,6 +1,6 @@
 # Release Notes for 1.x
 
-## [Unreleased](https://github.com/mahmoudmohamedramadan/easy-model/compare/v1.1.2...1.x)
+## [Unreleased](https://github.com/mahmoudmohamedramadan/mr-darkest-theme/compare/v1.1.2...1.x)
 
 ## [v1.1.2](https://github.com/mahmoudmohamedramadan/mr-darkest-theme/releases/tag/v1.1.2)
 
