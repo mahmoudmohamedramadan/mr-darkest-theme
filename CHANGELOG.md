@@ -38,7 +38,7 @@
 
 - [1.x] Adds the `LICENSE` file.
 - [1.x] Removes unused images.
-- [1.x] Formats the `README` file.
+- [1.x] Formats the `README.md` file.
 
 ## [v1.0.6](https://github.com/mahmoudmohamedramadan/mr-darkest-theme/releases/tag/v1.0.6)
 
