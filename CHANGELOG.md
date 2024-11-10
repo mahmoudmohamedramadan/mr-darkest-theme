@@ -25,6 +25,7 @@
 
 ## [v1.0.9](https://github.com/mahmoudmohamedramadan/mr-darkest-theme/releases/tag/v1.0.9)
 
+- [1.x] Formats the `CHANGELOG.md` file.
 - [1.x] Formats the `package.json` file.
 
 ## [v1.0.8](https://github.com/mahmoudmohamedramadan/mr-darkest-theme/releases/tag/v1.0.8)
