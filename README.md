@@ -21,7 +21,7 @@
    After installation, click the **Set Color Theme** button to immediately apply the theme.
 
 5. **Rate the Theme**  
-   If you love the theme, kindly give it a **5-star rating** 🌟🌟🌟🌟🌟 to support the creator!
+   If you love the theme, kindly give it a [**5-star rating**](https://marketplace.visualstudio.com/items?itemName=MahmoudMohamedRamadan.mr-darkest-theme&ssr=false#review-details) 🌟🌟🌟🌟🌟 to support the creator!
 
 ## Override this theme
 
