@@ -11,10 +11,11 @@
 ## [v1.1.2](https://github.com/mahmoudmohamedramadan/mr-darkest-theme/releases/tag/v1.1.2)
 
 - [1.x] Updates the Theme Logo.
+- [1.x] Updates the `CHANGELOG.md` file..
 
 ## [v1.1.1](https://github.com/mahmoudmohamedramadan/mr-darkest-theme/releases/tag/v1.1.1)
 
-- [1.x] Updates the `CHANGELOG` file.
+- [1.x] Updates the `CHANGELOG.md` file.
 
 ## [v1.1.0](https://github.com/mahmoudmohamedramadan/mr-darkest-theme/releases/tag/v1.1.0)
 
@@ -24,7 +25,7 @@
 
 ## [v1.0.9](https://github.com/mahmoudmohamedramadan/mr-darkest-theme/releases/tag/v1.0.9)
 
-- [1.x] Formates the `package.json` file.
+- [1.x] Formats the `package.json` file.
 
 ## [v1.0.8](https://github.com/mahmoudmohamedramadan/mr-darkest-theme/releases/tag/v1.0.8)
 
@@ -36,7 +37,7 @@
 
 - [1.x] Adds the `LICENSE` file.
 - [1.x] Removes unused images.
-- [1.x] Formates the `README` file.
+- [1.x] Formats the `README` file.
 
 ## [v1.0.6](https://github.com/mahmoudmohamedramadan/mr-darkest-theme/releases/tag/v1.0.6)
 
