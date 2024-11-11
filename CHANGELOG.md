@@ -1,6 +1,10 @@
 # Release Notes for 1.x
 
-## [Unreleased](https://github.com/mahmoudmohamedramadan/mr-darkest-theme/compare/v1.1.3...1.x)
+## [Unreleased](https://github.com/mahmoudmohamedramadan/mr-darkest-theme/compare/v1.1.4...1.x)
+
+## [v1.1.4](https://github.com/mahmoudmohamedramadan/mr-darkest-theme/releases/tag/v1.1.4)
+
+- [1.x] Adds the link to rate the theme in the `README.md` file.
 
 ## [v1.1.3](https://github.com/mahmoudmohamedramadan/mr-darkest-theme/releases/tag/v1.1.3)
 
@@ -11,7 +15,7 @@
 ## [v1.1.2](https://github.com/mahmoudmohamedramadan/mr-darkest-theme/releases/tag/v1.1.2)
 
 - [1.x] Updates the Theme Logo.
-- [1.x] Updates the `CHANGELOG.md` file..
+- [1.x] Updates the `CHANGELOG.md` file.
 
 ## [v1.1.1](https://github.com/mahmoudmohamedramadan/mr-darkest-theme/releases/tag/v1.1.1)
 
